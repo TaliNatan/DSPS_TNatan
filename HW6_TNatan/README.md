@@ -1,1 +1,1 @@
-
+For HW #6, we fit data (El Niño dataset) using the gaussian process regressian package george. Individual functions of the homework prep and visualize the original data, implement a gaussian process regressor with george, and optimize a set of hyperparameters. For this homework, I talked with Masooma and Rayta about the george package. Willow was a big help filling in the gaps in documentation of george and answering general questions about the homework.
