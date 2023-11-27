@@ -11,14 +11,16 @@ Bad plot from: "Strong Gravity Extruding Peaks in Speed of Sound Profiles of Mas
 One thing good about the plot is that all the number, symbols, equations, etc. are a decent size for the figure.
 
 Good plot from: "A rotating white dwarf shows different compositions on its opposite faces" (Caiazzo et al., 2023). The plot shows the lightcurves w/ sinusoidal fits of the white dwarf over different color filters (a) and the binned/phase-folded lightcurve over the same color filters (b). While this plot is not perfect (will explain below), I think it presents the information simply in a way that in intuitivly inderstood by readers.
-    * ambiguity:
-        * data belonging to different color filters is seperated both by color of datapoints (maybe differnt shaped datapoints would help too) and spacially along the magnitude axis such that they would not get confused
-        * the units (corrected to zero on the x axis) are immediatly obvious
-    * distortion: 
-        * not too many datapoints such that one cannot tell how much data is present
-        * caption of figure is very upfront with how data was treated
-        * axis scales both make sense
-    * distraction: nothing on the figure competes with the importance of the information shown
+
+* ambiguity:
+  * data belonging to different color filters is seperated both by color of datapoints (maybe differnt shaped datapoints would help too) and spacially along the magnitude axis such that they would not get confused
+  * the units (corrected to zero on the x axis) are immediatly obvious
+* distortion: 
+  * not too many datapoints such that one cannot tell how much data is present
+  * caption of figure is very upfront with how data was treated
+  * axis scales both make sense
+* distraction: nothing on the figure competes with the importance of the information shown
+  
 With respect to Tufte’s 5 rules, the "effect size" and "data/ink" are both good (plot has little/needs little "ink"). There is no chart junk. Since we are considering how the data changes over different color filters, the individual lightcurves are small but stacked so that they can immediatly be compared to one another.
 
 Part 2:
