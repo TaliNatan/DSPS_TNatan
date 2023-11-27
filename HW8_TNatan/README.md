@@ -1,7 +1,7 @@
 Part 1:
 Bad plot from: "Strong Gravity Extruding Peaks in Speed of Sound Profiles of Massive Neutron Stars" (Cai & Li, 2023). The plot is supposed to show how the squared speed of sound (s^2) varies over the radius of a neutron star given different neutron star equations of state (EOS). Unfortunatly, the plot has a few issues that prevent the reader from fully and quickly understanding the importance of the figure. With respect to what we've discussed in class, the plot fails due to:
 
-![alt text](https://github.com/TaliNatan/DSPS_TNatan/blob/main/HW8_TNatan/bad.png)
+![alt text](https://github.com/TaliNatan/DSPS_TNatan/blob/main/HW8_TNatan/bad.png?raw=true)
 * ambiguity:
    * there is no legend to indicate what EOSs the different lines represent
    * the grey and black lines are of similar darkness, it would have been better to use differnt linestyles
