@@ -13,6 +13,8 @@ One thing good about the plot is that all the number, symbols, equations, etc. a
 
 Good plot from: "A rotating white dwarf shows different compositions on its opposite faces" (Caiazzo et al., 2023). The plot shows the lightcurves w/ sinusoidal fits of the white dwarf over different color filters (a) and the binned/phase-folded lightcurve over the same color filters (b). While this plot is not perfect (will explain below), I think it presents the information simply in a way that in intuitivly inderstood by readers.
 
+![alt text](https://github.com/TaliNatan/DSPS_TNatan/blob/main/HW8_TNatan/good.png?raw=true)
+
 * ambiguity:
   * data belonging to different color filters is seperated both by color of datapoints (maybe differnt shaped datapoints would help too) and spacially along the magnitude axis such that they would not get confused
   * the units (corrected to zero on the x axis) are immediatly obvious
@@ -26,6 +28,10 @@ With respect to Tufte’s 5 rules, the "effect size" and "data/ink" are both goo
 
 Part 2:
 I redid the velocity versus distance plot of M31 from HW#4 because I was unhappy with how "ink" was used on the plot, how the errorbars are not easily distinguishabe, and how calling different points "At N * Radius" is dishonest due to rounding to nearest datapoint closest to that number. In changing my figure, I have reduced the amount of "ink" on the plot and instead opted to put that information in the legend or to leave it out and just make the errorbars more obvious. I have also added vertical lines where "N * Radius" falls  on the plot. I think this corrects the previous "lies" of the earlier plot.
+
+![alt text](https://github.com/TaliNatan/DSPS_TNatan/blob/main/HW8_TNatan/original.png?raw=true)
+![alt text](https://github.com/TaliNatan/DSPS_TNatan/blob/main/HW8_TNatan/update.png?raw=true)
+
 
 The above (updated) plot shows hows the measured velocity (km/s) versus distance from galactic center R (kpc) with systematic and statistical errors. The luminous radius (blue dashed vertical line), two times the luminous radius (red dashed dotted vertical line), and three times the luminous radius (green dotted vertical line) and the data that falls clostest to each of those vertical lines (blue, red, green datapoint) are shown. Over this range of the data, the relationship between V and R looks moderately flat, though slightly decreasing (within error, still flat).
 
