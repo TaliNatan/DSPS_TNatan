@@ -1,1 +1,1 @@
-For homework 10, we had to fill in the PINN_Burgers jupyter notebook from class (12/4) and read the article: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Emily M. Bender, Timnit Gebru, Angelica McMillan-Major, and Schmargaret Shmitchell.
+For homework 10, we had to fill in the PINN_Burgers jupyter notebook from class (12/4) and read the article: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Emily M. Bender, Timnit Gebru, Angelica McMillan-Major, and Schmargaret Shmitchell. 
