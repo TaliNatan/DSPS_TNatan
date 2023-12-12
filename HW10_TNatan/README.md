@@ -1,6 +1,6 @@
 For homework 10, we had to fill in the PINN_Burgers jupyter notebook from class (12/4) and read the article: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Emily M. Bender, Timnit Gebru, Angelica McMillan-Major, and Schmargaret Shmitchell (2021). 
 
-On the coding assignement: We had to finish the notebook on phyiscally informed neural networks which was centered around Burger's Equations.
+On the coding assignement: We had to finish the notebook on phyiscally informed neural networks which was centered around Burger's Equations. To complete this portion of the assignment, I worked alongside Dr. Bianco's 12/4 class recording (https://udel.instructure.com/courses/1735534/external_tools/151642).
 
 On the paper: The authors lay out a guide for evaluating the cost of large language models (LMs) which includes considering:
 1. Environmental risk (running large models is damaging to the environment and this impacts marginalized communities much more)
